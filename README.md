@@ -29,7 +29,7 @@ Additional features of the application can be added on a later stage after main 
 
 Project includes short initial risk assessment 
 
-<img src="https://github.com/deadmedusa/QA-presentation/blob/master/Risk%20assessment.xlsx">
+<img src="https://github.com/deadmedusa/QA-presentation/blob/master/Risk%20assessment.PNG">
 
 Most risk factors are technical and related to application security but impact is low, because there is no plans to collect users' personal data.
 
