@@ -9,4 +9,5 @@ I decided to create a personal tabata application that would allow users to crea
 
 There should be option to choose between exercises with or without weight. Also preliminary plan had optional interval timer and calories counter.
 
-![](ERD initial.png)
+<img src="https://github.com/deadmedusa/QA-presentation/blob/master/ERD%20initial.PNG">
+
