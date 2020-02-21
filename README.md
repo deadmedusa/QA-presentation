@@ -1,4 +1,4 @@
-###The Bright Idea   
+### The Bright Idea   
 
 To create an application with utilisation of supporting tools, methodologies and technologies that encapsulate all core modules covered during training. Unfortunately, we got too much information in a very short period and I do not feel myself comfortable enough yet to put tools and methodologies together. 
 
@@ -9,7 +9,7 @@ I decided to create a personal tabata application that would allow users to crea
 
 There should be option to choose between exercises with or without weight. Also preliminary plan had optional interval timer and calories counter.
 
-###Architecture
+### Architecture
 
 Entity Relationship Diagrams
 
